@@ -1,0 +1,10 @@
+﻿version: '3.1'
+
+services: 
+  copitos:
+    build: 
+      context: COPiTOS/.
+      dockerfile: Dockerfile
+    read_only: true
+    ports:
+      - 8100:8080

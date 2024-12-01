@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COPiTOS", "COPiTOS\COPiTOS.csproj", "{839FC46C-F26B-4223-A845-B5644F4E428D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COPiTOS_UnitTests", "COPiTOS_UnitTests\COPiTOS_UnitTests.csproj", "{EA0B7566-85F4-4481-9622-CEDAADF80B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COPiTOS_IntegrationTests", "COPiTOS_IntegrationTests\COPiTOS_IntegrationTests.csproj", "{69EFEC6C-8F3E-482A-8E33-DDA92B8FB31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839FC46C-F26B-4223-A845-B5644F4E428D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839FC46C-F26B-4223-A845-B5644F4E428D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839FC46C-F26B-4223-A845-B5644F4E428D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839FC46C-F26B-4223-A845-B5644F4E428D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0B7566-85F4-4481-9622-CEDAADF80B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0B7566-85F4-4481-9622-CEDAADF80B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0B7566-85F4-4481-9622-CEDAADF80B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0B7566-85F4-4481-9622-CEDAADF80B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EFEC6C-8F3E-482A-8E33-DDA92B8FB31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EFEC6C-8F3E-482A-8E33-DDA92B8FB31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EFEC6C-8F3E-482A-8E33-DDA92B8FB31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EFEC6C-8F3E-482A-8E33-DDA92B8FB31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
